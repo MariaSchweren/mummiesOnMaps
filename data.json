@@ -1,13 +1,233 @@
 {
     "coords": [{
-        "lat": 41.19198,
-        "lng":25.337,
-        "text": "derp"
+        "lat": 26.016767,
+        "lng":32.283481,
+        "text": "Abadijeh/Diaspolis parva  Naquada-Zeit I-III, 11. & 12. Dynastie"
     },
     {
-        "lat": 41.192,
-        "lng":25.338,
-        "text": "derp2\n\r wwha"
+        "lat": 30.031944,
+        "lng": 31.075,
+        "text": "Abu Roasch 1.-4. Dynastie"
+    },
+    {
+        "lat": 29.9,
+        "lng": 31.2,
+        "text": "Abusir  3.-6. Dynastie"
+    },
+    {
+        "lat": 26.185,
+        "lng": 31.918889,
+        "text": "Abydos  vordynastische Zeit, 1.- 3. Dynastie, 6. Dyn"
+    },
+    {
+        "lat": 25.229999999999997,
+        "lng": 32.59,
+        "text": "Adaïma Naquada-Zeit I-III"
+    },
+    {
+        "lat": 26.13764,
+        "lng": 31.9854,
+        "text": " El-Amra (Qina) Naquada-Zeit I"
+    },
+    {
+        "lat": 26.3026,
+        "lng": 31.7941,
+        "text": "Bait Challaf 3. Dynastie"
+    },
+    {
+        "lat": 26.211972,
+        "lng": 32.135694,
+        "text": "El-Balabisch 11. & 12. Dynastie"
+    },
+    {
+        "lat": 24.71527777777778,
+        "lng": 32.59111111111111,
+        "text": "Bucheum 30. Dynastie - römische Kaiserzeit"
+    },
+    {
+        "lat": 29.816667,
+        "lng": 31.216667,
+        "text": "Dahschur 4.-13. Dynastie"
+    },
+    {
+        "lat": 27.75,
+        "lng": 30.75,
+        "text": "Dair al-Berscha 3.-12. Dynastie"
+    },
+    {
+        "lat": 27.3,
+        "lng": 30.866666666666667,
+        "text": "Dara 1.-6. Dynastie & 9./10. Dynastie" 
+    },
+    {
+        "lat": 27.3125,
+        "lng": 31.092222,
+        "text": "Deir el-Gebrawi 3.-6. Dynastie"
+    },
+    {
+        "lat": 28.161944,
+        "lng": 30.769444,
+        "text": "Fraser-Gräber 4.&5. Dynastie"
+    },
+    {
+        "lat": 29.9775,
+        "lng": 31.134167,
+        "text": "Nekropole von Gizeh 1. Dynastie, 3. Dynastie, 4. Dynastie"
+    },
+    {
+        "lat": 29.216667,
+        "lng": 31.033333,
+        "text": "Harageh Naquada-Zeit II, 7.-12. Dynastie, 18.-20. Dynastie "
+    },
+    {
+        "lat": 29.274167,
+        "lng": 30.898889,
+        "text": "Hawara 12. Dynastie"
+    },
+    {
+        "lat": 26.916667,
+        "lng": 31.483333,
+        "text": "Hemamieh vordynastische Zeit - griech.-röm. Zeit "
+    },
+    {
+        "lat": 25.127472,
+        "lng": 32.798639,
+        "text": "Felsengräber von el-Kab 18. - 20. Dynastie "
+    },
+    {
+        "lat": 27.333333,
+        "lng": 31.025,
+        "text": "Krokodilnekropole von El-Maabdeh griech.- röm. Zeit "
+    },
+    {
+        "lat": 29.233333,
+        "lng": 30.966667,
+        "text": "Al-Lahun 11. & 12. Dynastie"
+    },
+    {
+        "lat": 25.735,
+        "lng": 32.611944,
+        "text": "Al-Asasif 11. - 26. Dynastie"
+    },
+    {
+        "lat": 29.570278,
+        "lng": 31.231111,
+        "text": "El-Lischt 12. & 13. Dynastie"
+    },
+    {
+        "lat": 29.75,
+        "lng": 31.25,
+        "text": "Masghuna 12. & 13. Dynastie"
+    },
+    {
+        "lat": 29.395008,
+        "lng": 31.158067,
+        "text": "Meidum 4. Dynastie"
+    },
+    {
+        "lat": 26.566667,
+        "lng": 31.833333,
+        "text": "Naga-ed-Deir 0. - 7. Dynastie "
+    },
+    {
+        "lat": 25.913611,
+        "lng": 31.483333,
+        "text": "Naqada Nekropole, Naquada-Zeit, 1.-6. Dynastie"
+    },
+    {
+        "lat": 26.9,
+        "lng": 31.516667,
+        "text": "Qau el-Kebir 11. & 12. Dynastie "
+    },
+    {
+        "lat": 24.1025,
+        "lng": 32.888889,
+        "text": "Qubbet el-Hawa 6.-12. Dynastie - griech.-röm. Zeit"
+    },
+    {
+        "lat": 29.433333,
+        "lng": 31.216667,
+        "text": "Riqqeh Naquada-Zeit, 12. Dynastie, 18.-20. Dynastie "
+    },
+    {
+        "lat": 29.873889,
+        "lng": 31.216944,
+        "text": "Sakkara 2.& 3. Dynastie, 5. - 11. Dynastie, 13. Dynastie, 21.-25. Dynastie"
+    },
+    {
+        "lat": 29.932778,
+        "lng": 31.161111,
+        "text": "Saujet el-Arjan 1.- 4. Dynastie, 18. - 20. Dynastie, griech. - röm. Zeit"
+    },
+    {
+        "lat": 28.490278,
+        "lng": 30.848611,
+        "text": "Scheich Fadl griech.- römische Zeit "
+    },
+    {
+        "lat": 26.189444,
+        "lng": 31.907778,
+        "text": "Sonnenbarken von Abydos 1. & 2. Dynastie"
+    },
+    {
+        "lat": 27.781667,
+        "lng": 30.803889,
+        "text": "Tuna el-Gebel 21. - 26. Dynastie"
+    },
+    {
+        "lat": 26.174913,
+        "lng": 31.907859,
+        "text": "Umm el-Qaab Naquada-Zeit, 0.-2. Dynastie, 13. Dynastie"
+    },
+    {
+        "lat": 25.740833,
+        "lng": 32.601944,
+        "text": "Tal der Könige (Wādī al-Mulūk) 18.-20. Dynastie"
+    },
+    {
+        "lat": 25.728333,
+        "lng": 32.593056,
+        "text": "Tal der Königinnen 17. -20. Dynastie "
+    },
+    {
+        "lat": 25.72,
+        "lng": 32.600833,
+        "text": "Medinet Habu 18. - 20. Dynastie "
+    },
+    {
+        "lat": 25.738333,
+        "lng": 32.607778,
+        "text": "Deir el-Bahari 11. - 13. Dynastie, 18. Dynastie, 21. Dynastie"
+    },
+    {
+        "lat": 25.728889,
+        "lng": 32.601389,
+        "text": "Deir el-Medina 18. - 20. Dynastie "
+    },
+    {
+        "lat": 25.7317,
+        "lng": 32.6092,
+        "text": "Qurna/Kurna 18. - 20. Dynastie  "
+    },
+    {
+        "lat": 25.725833,
+        "lng": 32.603611,
+        "text": "Qurnet Murrai (späte) 18. Dynastie"
+    },
+    {
+        "lat": 25.735278,
+        "lng": 32.620556,
+        "text": "Dra Abu el-Naga 7.- 12. Dynastie, 17. & 18. Dynastie, 21. Dynastie"
+    },
+    {
+        "lat": 27.661667,
+        "lng": 30.905556,
+        "text": "Amarna (Achet Aton) (späte) 18. Dynastie "
+    },
+    {
+        "lat": 30.946167,
+        "lng": 29.518694,
+        "text": "Taposiris Magna(Abousir) griech. - römische Zeit"
     }
     ]
 }
